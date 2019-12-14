@@ -11,13 +11,6 @@ object-assign
 @license MIT
 */
 
-/**
- * @file
- * @copyright  2013 Michael Aufreiter (Development Seed) and 2016 Yahoo Inc.
- * @license    Licensed under {@link https://spdx.org/licenses/BSD-3-Clause-Clear.html BSD-3-Clause-Clear}.
- *             Github.js is freely distributable.
- */
-
 /** @license React v16.12.0
  * react.production.min.js
  *
@@ -45,6 +38,13 @@ object-assign
  * LICENSE file in the root directory of this source tree.
  */
 
+/**
+ * @file
+ * @copyright  2013 Michael Aufreiter (Development Seed) and 2016 Yahoo Inc.
+ * @license    Licensed under {@link https://spdx.org/licenses/BSD-3-Clause-Clear.html BSD-3-Clause-Clear}.
+ *             Github.js is freely distributable.
+ */
+
 /*!
  * Determine if an object is a Buffer
  *
@@ -66,4 +66,18 @@ object-assign
  * @copyright  2016 Matt Smith (Development Seed)
  * @license    Licensed under {@link https://spdx.org/licenses/BSD-3-Clause-Clear.html BSD-3-Clause-Clear}.
  *             Github.js is freely distributable.
+ */
+
+/*!
+ * is-plain-object <https://github.com/jonschlinkert/is-plain-object>
+ *
+ * Copyright (c) 2014-2017, Jon Schlinkert.
+ * Released under the MIT License.
+ */
+
+/*!
+ * isobject <https://github.com/jonschlinkert/isobject>
+ *
+ * Copyright (c) 2014-2017, Jon Schlinkert.
+ * Released under the MIT License.
  */
